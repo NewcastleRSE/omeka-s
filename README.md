@@ -6,7 +6,7 @@ See the [user manual](https://omeka.org/s/docs/user-manual) for more information
 
 ## Installation
 
-A LAMP stack is required to host the Omeka installation.  Instructions on how to set up [LAMP on a Mac](mac_lamp.md).
+A LAMP stack is required to host the Omeka installation.  Instructions on how to set up [LAMP on a Mac](mac_lamp).
 
 ### Requirements
 * Linux
